@@ -42,8 +42,8 @@ class Solution {
     }
 }
 
-Note: 注意，remember how to initialize array.
+/**Note: 注意，remember how to initialize array.
 
 int arr[]= new int[nums.length]; 
 
-array using array.length not arr.length()
+array using array.length not arr.length()**/

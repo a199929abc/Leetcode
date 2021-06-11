@@ -32,4 +32,4 @@ class Solution {
     }
 }
 
-Note : Basic useage of arr and loop. o(n)
+//Note : Basic useage of arr and loop. o(n)
