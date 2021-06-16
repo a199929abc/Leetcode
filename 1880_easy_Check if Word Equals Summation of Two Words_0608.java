@@ -51,9 +51,6 @@ class Solution {
         }else{
             return false;
         }
-          
-       
-              
           }
          int covert(String s){
               int r = 0;
@@ -65,10 +62,11 @@ class Solution {
              return r;
       }
   }
-    /*  解題思路：寫一個方法專門用來處理 string， 將string 轉換成ascii 數字
+    /*  解題思路：
+    寫一個方法專門用來處理 string， 將string 轉換成ascii 數字
     并且返回該數字的值  
     最終進行加減處理
 
     難點： char 使用 如何轉換爲 ascii 數字*/
 
-    char c = string.charAt();
+    //char c = string.charAt();
